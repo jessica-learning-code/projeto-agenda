@@ -1,13 +1,19 @@
-# Controle de Tarefas
+# Agendagit p
 
-## Documentos
- planejamento.md
- diario-de-bordo.md
- requisitos.md
+## Manhã
 
-## Branches
-main
-dev
+ Arrumar o quarto
+ Estudar (1h)
+ Responder mensagens
 
-.gitignore
-README.md
+## Tarde
+
+ Trabalho / aula
+ Fazer exercícios
+ Reunião às 15h
+
+## Noite
+
+ Revisar conteúdo
+ Planejar o dia seguinte
+ Descansar
