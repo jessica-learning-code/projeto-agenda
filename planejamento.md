@@ -6,7 +6,7 @@ O objetivo desse projeto é criar uma simples agenda para facilitar o manuseio d
 
 #Funcionalidades
 
-Suas funcionalidades são escrever suas tarefas diárias, agendar eventos futuros, calendário simples do mês mostrando feriados.Contendo uma IA personalizada, conectada com a Alexa, assim podendo pedi-lá para anotar seus compromissos e ler seus evetos já marcados. 
+Suas funcionalidades são escrever suas tarefas diárias, agendar eventos futuros, calendário simples do mês mostrando feriados. Contendo uma IA personalizada, conectada com a Alexa, assim podendo pedi-lá para anotar seus compromissos e ler seus eventos já marcados. 
 
 #Tempo de execução 
 
